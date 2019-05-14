@@ -4,7 +4,7 @@ c=0
 for i in range(0,n):
     a=input()
     b.append(a)
-print(b)
+
 for x in range(0,len(b)-1):
     y=x+1
     if b[x]==b[y]:
